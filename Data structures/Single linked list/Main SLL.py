@@ -5,8 +5,8 @@ my_single_list = Single_list.Single_List_Array()
 
 my_single_list.add_tail("Hello")
 my_single_list.add_tail("CF")
-my_single_list.add_tail("Teacher")
-my_single_list.add_tail("Mr.Nam")
+my_single_list.add_tail("Student")
+my_single_list.add_tail("ChrisPham")
 my_single_list.add_tail("FPTU")
 
 print(my_single_list.is_empty())
